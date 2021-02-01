@@ -78,10 +78,11 @@ function scrollFunction() {
    var element = document.getElementById("nav2");
    element.style.transition = "all 2s";
    element1.style.transition = "all 2s";
-   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+   if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
       element.classList.remove("navbar-dark");
       element.classList.add("bg-white");
   element.classList.add("navbar-light");
+  element.classList.add("fixed-top");
   element1.classList.remove("d-flex");
   element1.classList.add("d-none");
    } else if (document.body.scrollTop < 20 || document.documentElement.scrollTop < 20) {
