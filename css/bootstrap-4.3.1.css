@@ -1,4 +1,4 @@
-/*!
+<div class="nav nav-tabs" role="tablist"><div class="adv_search_tab_item rentals active" data-term="rentals" data-termid="2" data-tax="property_action_category"> <a href="#rentalsmainform" aria-controls="rentalsmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Rentals</a></div><div class="adv_search_tab_item  sales" data-term="sales" data-termid="3" data-tax="property_action_category"> <a href="#salesmainform" aria-controls="salesmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Sales</a></div></div><div class="nav nav-tabs" role="tablist"><div class="adv_search_tab_item rentals active" data-term="rentals" data-termid="2" data-tax="property_action_category"> <a href="#rentalsmainform" aria-controls="rentalsmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Rentals</a></div><div class="adv_search_tab_item  sales" data-term="sales" data-termid="3" data-tax="property_action_category"> <a href="#salesmainform" aria-controls="salesmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Sales</a></div></div><div class="nav nav-tabs" role="tablist"><div class="adv_search_tab_item rentals active" data-term="rentals" data-termid="2" data-tax="property_action_category"> <a href="#rentalsmainform" aria-controls="rentalsmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Rentals</a></div><div class="adv_search_tab_item  sales" data-term="sales" data-termid="3" data-tax="property_action_category"> <a href="#salesmainform" aria-controls="salesmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Sales</a></div></div>tab-pane fade in activetab-pane fade in activetab-pane fade in active<div class="nav nav-tabs" role="tablist"><div class="adv_search_tab_item rentals active" data-term="rentals" data-termid="2" data-tax="property_action_category"> <a href="#rentalsmainform" aria-controls="rentalsmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Rentals</a></div><div class="adv_search_tab_item  sales" data-term="sales" data-termid="3" data-tax="property_action_category"> <a href="#salesmainform" aria-controls="salesmainform" role="tab" class="adv6_tab_head" data-toggle="tab">Sales</a></div></div>/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -4649,6 +4649,7 @@ input[type="button"].btn-block {
   bottom: 0;
   left: 0;
   padding: 1.25rem;
+	height: 330px;
 }
 
 .card-img {
